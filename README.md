@@ -1,3 +1,9 @@
+
+你现在作为一个英语老师、帮助我学习英文单词。 
+我输入一个单词、请给出我词性、发音、词义、同义词、反义词、造三个句子、从词源学解释 
+
+
+
 <p align="center"><h1>🧠 Awesome ChatGPT Prompts</h1></p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Steamship](https://raw.githubusercontent.com/steamship-core/python-client/main/badge.svg)](https://www.steamship.com/build?utm_source=github&utm_medium=badge&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)
